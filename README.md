@@ -1,3 +1,3 @@
-## Dev Shells
+## dev-shells
 
 TODO
